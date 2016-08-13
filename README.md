@@ -1,0 +1,2 @@
+# Seminarfach
+Unsere Seminarfacarbeit
