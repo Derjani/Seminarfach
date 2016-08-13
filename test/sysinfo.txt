@@ -23,10 +23,10 @@ Systemgebietsschema:                           de;Deutsch (Deutschland)
 Eingabegebietsschema:                          de;Deutsch (Deutschland)
 Zeitzone:                                      (UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
 Gesamter physischer Speicher:                  4.087 MB
-VerfÅgbarer physischer Speicher:               602 MB
+VerfÅgbarer physischer Speicher:               883 MB
 Virtueller Arbeitsspeicher: Maximale Grî·e:    9.463 MB
-Virtueller Arbeitsspeicher: VerfÅgbar:         3.601 MB
-Virtueller Arbeitsspeicher: Zurzeit verwendet: 5.862 MB
+Virtueller Arbeitsspeicher: VerfÅgbar:         3.523 MB
+Virtueller Arbeitsspeicher: Zurzeit verwendet: 5.940 MB
 Auslagerungsdateipfad(e):                      C:\pagefile.sys
 DomÑne:                                        WORKGROUP
 Anmeldeserver:                                 \\BARTHYR-PC
@@ -50,9 +50,7 @@ Netzwerkkarte(n):                              3 Netzwerkadapter installiert.
                                                      [03]: 2003:5f:2715:b301:65a4:60d7:dbf5:7743
                                                      [04]: 2003:5f:2711:4401:65a4:60d7:dbf5:7743
                                                      [05]: 2003:5f:2711:4401:6194:10e0:dfd4:1d44
-                                                     [06]: 2003:5f:270e:af01:65a4:60d7:dbf5:7743
-                                                     [07]: 2003:5f:270e:af01:6194:10e0:dfd4:1d44
-                                                     [08]: 2003:5f:2715:b301:6194:10e0:dfd4:1d44
+                                                     [06]: 2003:5f:2715:b301:6194:10e0:dfd4:1d44
                                                [02]: Realtek PCIe GBE Family Controller
                                                      Verbindungsname: Ethernet
                                                      Status:          Medien getrennt
