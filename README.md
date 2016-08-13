@@ -1,2 +1,2 @@
 # Seminarfach
-Unsere Seminarfacarbeit
+Unsere Seminarfacharbeit
