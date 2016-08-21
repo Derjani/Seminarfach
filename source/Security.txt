@@ -1,6 +1,6 @@
 -GetCommand : Die Benennung "-GetCommand" wurde nicht als Name eines Cmdlet, 
-einer Funktion, einer Skriptdatei oder eines ausfhrbaren Programms erkannt. 
-šberprfen Sie die Schreibweise des Namens, oder ob der Pfad korrekt ist 
+einer Funktion, einer Skriptdatei oder eines ausfÂhrbaren Programms erkannt. 
+Å¡berprÂfen Sie die Schreibweise des Namens, oder ob der Pfad korrekt ist 
 (sofern enthalten), und wiederholen Sie den Vorgang.
 In Zeile:1 Zeichen:1
 + -GetCommand NetSecurity
@@ -8,4 +8,4 @@ In Zeile:1 Zeichen:1
     + CategoryInfo          : ObjectNotFound: (-GetCommand:String) [], Command 
    NotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
- 
+ M
