@@ -5,7 +5,7 @@ Betriebssystemversion:                         10.0.10586 Nicht zutreffend Build
 Betriebssystemhersteller:                      Microsoft Corporation
 Betriebssystemkonfiguration:                   Eigenst„ndige Arbeitsstation
 Betriebssystem-Buildtyp:                       Multiprocessor Free
-Registrierter Benutzer:                        Barthyr
+Registrierter Benutzer:                        Barthyr  hdhd
 Registrierte Organisation:                     
 Produkt-ID:                                    00326-10000-00000-AA495
 Ursprngliches Installationsdatum:             14.07.2016, 03:53:19
