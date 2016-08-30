@@ -3,12 +3,12 @@ Hostname:                                      BARTHYR-PC
 Betriebssystemname:                            Microsoft Windows 10 Home
 Betriebssystemversion:                         10.0.10586 Nicht zutreffend Build 10586
 Betriebssystemhersteller:                      Microsoft Corporation
-Betriebssystemkonfiguration:                   EigenstÑndige Arbeitsstation
+Betriebssystemkonfiguration:                   Eigenst‚Äûndige Arbeitsstation
 Betriebssystem-Buildtyp:                       Multiprocessor Free
 Registrierter Benutzer:                        Barthyr
 Registrierte Organisation:                     
 Produkt-ID:                                    00326-10000-00000-AA495
-UrsprÅngliches Installationsdatum:             14.07.2016, 03:53:19
+Urspr¬Ångliches Installationsdatum:             14.07.2016, 03:53:19
 Systemstartzeit:                               12.08.2016, 20:05:57
 Systemhersteller:                              Gigabyte Technology Co., Ltd.
 Systemmodell:                                  P55-UD3L
@@ -18,17 +18,17 @@ Prozessor(en):                                 1 Prozessor(en) installiert.
 BIOS-Version:                                  Award Software International, Inc. FH, 24.06.2010
 Windows-Verzeichnis:                           C:\WINDOWS
 System-Verzeichnis:                            C:\WINDOWS\system32
-StartgerÑt:                                    \Device\HarddiskVolume1
+Startger‚Äût:                                    \Device\HarddiskVolume1
 Systemgebietsschema:                           de;Deutsch (Deutschland)
 Eingabegebietsschema:                          de;Deutsch (Deutschland)
 Zeitzone:                                      (UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien
 Gesamter physischer Speicher:                  4.087 MB
-VerfÅgbarer physischer Speicher:               883 MB
-Virtueller Arbeitsspeicher: Maximale Grî·e:    9.463 MB
-Virtueller Arbeitsspeicher: VerfÅgbar:         3.523 MB
+Verf¬Ågbarer physischer Speicher:               883 MB
+Virtueller Arbeitsspeicher: Maximale Gr‚Äù√°e:    9.463 MB
+Virtueller Arbeitsspeicher: Verf¬Ågbar:         3.523 MB
 Virtueller Arbeitsspeicher: Zurzeit verwendet: 5.940 MB
 Auslagerungsdateipfad(e):                      C:\pagefile.sys
-DomÑne:                                        WORKGROUP
+Dom‚Äûne:                                        WORKGROUP
 Anmeldeserver:                                 \\BARTHYR-PC
 Hotfix(es):                                    8 Hotfix(e) installiert.
                                                [01]: KB3116278
@@ -60,7 +60,8 @@ Netzwerkkarte(n):                              3 Netzwerkadapter installiert.
                                                      IP-Adresse(n)
                                                      [01]: 192.168.56.1
                                                      [02]: fe80::edaa:6e75:349e:22cc
-Anforderungen fÅr Hyper-V:                     Erweiterungen fÅr den VM-öberwachungsmodus: Ja
+Anforderungen f¬År Hyper-V:                     Erweiterungen f¬År den VM-≈°berwachungsmodus: Ja
                                                Virtualisierung in Firmware aktiviert: Ja
-                                               AdressÅbersetzung der zweiten Ebene: Ja
-                                               DatenausfÅhrungsverhinderung verfÅgbar: Ja
+                                               Adress¬Åbersetzung der zweiten Ebene: Ja
+                                               Datenausf¬Åhrungsverhinderung verf¬Ågbar: Ja
+Hallo Welt :D
